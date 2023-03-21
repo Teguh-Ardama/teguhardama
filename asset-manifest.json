@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teguhardama/static/css/main.f105cd72.css",
+    "main.js": "/teguhardama/static/js/main.43317d54.js",
+    "static/media/2.PNG": "/teguhardama/static/media/2.b4061f7eaea0a389b264.PNG",
+    "static/media/5.png": "/teguhardama/static/media/5.e200bc0899dd47c7865a.png",
+    "static/media/4.png": "/teguhardama/static/media/4.b7068b019243dc7a22b3.png",
+    "static/media/1.png": "/teguhardama/static/media/1.3f5ee237f6db5417e099.png",
+    "static/media/3.PNG": "/teguhardama/static/media/3.e82728f2704627f49c82.PNG",
+    "static/media/6.png": "/teguhardama/static/media/6.a8f5e56d6b5fd83fa7c1.png",
+    "static/media/Portofolio-Teguh-2023.pdf": "/teguhardama/static/media/Portofolio-Teguh-2023.c3246e8c1ac348bb005a.pdf",
+    "static/media/CV-Teguh-Ardama-2023.pdf": "/teguhardama/static/media/CV-Teguh-Ardama-2023.cc43944bbec40fbb7ad9.pdf",
+    "static/media/teguh.png": "/teguhardama/static/media/teguh.94ad02e2211fb536b0ac.png",
+    "index.html": "/teguhardama/index.html",
+    "main.f105cd72.css.map": "/teguhardama/static/css/main.f105cd72.css.map",
+    "main.43317d54.js.map": "/teguhardama/static/js/main.43317d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f105cd72.css",
+    "static/js/main.43317d54.js"
+  ]
+}
